@@ -398,12 +398,12 @@ caption, th, td {
   }
 }
 
-.span9, #content, .three-fourths {
+.span9, .three-fourths {
   width: 75%;
   float: left;
 }
 @media only screen and (max-width: 767px) {
-  .span9, #content, .three-fourths {
+  .span9, .three-fourths {
     width: 100%;
   }
 }
