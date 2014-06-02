@@ -36,9 +36,6 @@ function TEMPLATE_init()
     //Load Misc Shortcode Functions
     require_once get_stylesheet_directory() . '/includes/shortcodes.php';
 
-    //Load Products Meta Functions
-    require_once get_stylesheet_directory() . '/includes/products/functions.php';
-
     //Load Silde Functions
     require_once get_stylesheet_directory() . '/includes/slides/functions.php';
     require_once get_stylesheet_directory() . '/includes/slides/metabox-add.php';
