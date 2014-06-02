@@ -1,0 +1,30 @@
+/* 
+Theme Name:     FIFTY_TEMPLATE_THEME
+Author:         Fifty & Fifty
+Author URI:     http://fiftyandfifty.org/ 
+
+(optional values you can add: Theme URI, Author URI, Version)
+*/
+
+@import url("assets/css/style.css");
+
+.page-template-page-templatesslider-php .header-no-image{
+    margin-bottom:20px;
+}
+
+.nav.menu ul ul li a{ line-height: 20px;}
+
+.post-content ul, .post-content ol {
+  list-style: inherit;
+}
+
+.post-content {
+  padding-right: 100px;
+}
+
+.wp-caption-text {
+  margin-top: -20px;
+  font-size: 14px!important;
+  font-style: italic;
+}
+em {font-style:italic;}
